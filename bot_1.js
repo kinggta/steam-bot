@@ -1,1 +1,1 @@
-//steam-bot
+const SteamUser = require('steam-user');
