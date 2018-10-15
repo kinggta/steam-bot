@@ -6,4 +6,4 @@ const logOnOptions = {
     password: 'steam_password'
   };
   client.logOn(logOnOptions);
-  // salam
+  // khodafez
